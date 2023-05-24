@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\Aprendendo-MVC\bin\Debug\net7.0\Aprendendo-MVC.exe
+C:\Users\56026708820\Desktop\Aprendendo-MVC\bin\Debug\net7.0\Aprendendo-MVC.deps.json
+C:\Users\56026708820\Desktop\Aprendendo-MVC\bin\Debug\net7.0\Aprendendo-MVC.runtimeconfig.json
+C:\Users\56026708820\Desktop\Aprendendo-MVC\bin\Debug\net7.0\Aprendendo-MVC.dll
+C:\Users\56026708820\Desktop\Aprendendo-MVC\bin\Debug\net7.0\Aprendendo-MVC.pdb
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\Aprendendo-MVC.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\Aprendendo-MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\Aprendendo-MVC.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\Aprendendo-MVC.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\Aprendendo-MVC.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\Aprendendo-MVC.dll
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\refint\Aprendendo-MVC.dll
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\Aprendendo-MVC.pdb
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\Aprendendo-MVC.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\Aprendendo-MVC\obj\Debug\net7.0\ref\Aprendendo-MVC.dll
