@@ -18,5 +18,11 @@ namespace Aprendendo_MVC.Controller
             List<Produto> produtos = produto.Ler();
             produtoView.Listar(produtos);
         }
+
+        public void CadastrarProduto()
+        {
+            Produto novo = produtoView.Cadastrar();
+            produto.Inserir(novo);
+        }
     }
 }

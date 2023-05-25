@@ -21,5 +21,20 @@ namespace Aprendendo_MVC.View
                 Console.WriteLine($"Preco: {item.Preco:c}");
             }
         }
+        public Produto Cadastrar()
+        {
+            Produto novo = new Produto();
+
+            Console.WriteLine($"Informe o codigo: ");
+            novo.Codigo = int.Parse(Console.ReadLine()!);
+
+            Console.WriteLine($"Informe o nome: ");
+            novo.Nome = Console.ReadLine();
+            
+            Console.WriteLine($"Informe o preco: ");
+            novo.Preco = float.Parse(Console.ReadLine()!);
+            
+            return novo;
+        }
     }
 }

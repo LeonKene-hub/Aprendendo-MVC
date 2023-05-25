@@ -2,6 +2,7 @@
 using Aprendendo_MVC.Model;
 
 Produto p = new Produto();
-ProdutoControler pc = new ProdutoControler();
+ProdutoControler controller = new ProdutoControler();
 
-pc.ListarProdutos();
+controller.CadastrarProduto();
+controller.ListarProdutos();
